@@ -1,2 +1,2 @@
-# phpstorm-codestyle-settings
-PhpStorm IDE Settings
+# PhpStorm IDE Settings
+PhpStorm IDE Settings for import in PhpStorm
